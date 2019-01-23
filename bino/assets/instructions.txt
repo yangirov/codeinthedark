@@ -1,0 +1,13 @@
+Шрифт: https://fonts.googleapis.com/css?family=Open+Sans
+
+Картинки лежат с html:
+bg.jpg (1900x100) - общий фон с воздушными шарами, не затемненый
+anchor.png (20x29) - якорек
+
+Текст:
+HOME                ABOUT US                PORTFOLIO                PRICING                TEAM                BLOG                CONTACT
+Our Clients Are Our First Priority<br><br>
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br><br>
+GET STARTED NOW 
+LEARN MORE
